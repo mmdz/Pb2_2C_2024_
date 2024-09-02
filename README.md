@@ -1,6 +1,8 @@
-# Proyecto base para trabajar en PB2
+# Clase del día Miércoles 24-08-2024
 
-## Tecnologías
-* Java 11.
-* JUnit 4.
-* Eclipse IDE.
+## Contenido
+* Revisión de GIT y Github.
+* Herencia + introducción al polimorfismo.
+  
+## Ejercicios
+* Gestión de universidad.
